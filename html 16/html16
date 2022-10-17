@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
+    <title>Marcos Vitor Correa Pimentel</title>
+</head>
+<body>
+    <header>
+        <img id="hero" src="img/coutinho.jfif" alt="Foto Marcos">
+      <h1 id="hero">Marcos Vitor Correa Pimentel</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">HOME</a></li>
+            <li><a href="#Ref1">PORTFÓLIO</a></li>
+            <li><a href="#">SERVIÇOS</a></li>
+            <li><a href="#">CONTATO</a></li>
+        </ul>
+    </nav>       
+    <main>
+        <section id="Ref1" > <h2>Referências: IFES Cariacica-Admnistração
+      <p>Uvv: Ciência da computação</p> </h2> </section>
+      <h3>
+         </h3> <img src="img/Ifes cariacica.png" alt="Ifes">
+         <img src="img/logo uvv.png" alt="">
+         <h4> Informações adicionais: Sou um cara que sempre gosto de ser o melhor no que faço, nunca consigo ficar acomodado, sempre procurando melhorar e aperfeiçoar o que faço. Tenho interesse na área de Front end em desenvolver sites. Telefone para contato:27998558307, Vascaino. Idiomas: Inglês e Portuges, curso na área de WEB, phyton e java, cursando ciência da computação na UVV, e ja técnico em administração no IFES Cariacica.
+
+         </h4> 
+         <h5><img src="img/Coutinho br.jfif" alt="Coutinho br">
+            <img src="img/Coutinho Bayen.jfif" alt=""></h5>
+            <img src="img/Coutinho vasco1.jfif" alt="">
+    </main>    
+    <footer> 
+    </footer>    
+</body>   
+</html>
